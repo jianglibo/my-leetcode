@@ -32,6 +32,6 @@ stdenv is one attribute of the pkgs attr set. it's a derivation too.
       let pkgs = nixpkgs.legacyPackages.${system};
       in {
         # packages.hello = pkgs.hello;
-        devShell = pkgs.mkShell { buildInputs = [ pkgs.jdk ]; };
+        devShell = pkgs.mkShell { buildInputs = [ pkgs.jdk pkgs.clojure pkgs.leiningen ]; };
       });
 }

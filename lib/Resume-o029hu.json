@@ -1,0 +1,335 @@
+{
+	"awards": {
+		"heading": "Awards",
+		"visible": true
+	},
+	"certifications": {
+		"heading": "Certifications",
+		"visible": true
+	},
+	"education": {
+		"heading": "Education",
+		"visible": true,
+		"items": [
+			{
+				"institution": "Zhejiang Water Conservancy and Hydropower College",
+				"field": "Small hydroelectric equipment",
+				"degree": "",
+				"gpa": "",
+				"startDate": "1989-09-01",
+				"endDate": "1994-06-01",
+				"summary": "",
+				"id": "be313b74-c7ce-4365-bb3b-0063428c31a8"
+			}
+		]
+	},
+	"hobbies": {
+		"heading": "Hobbies",
+		"visible": true,
+		"items": [
+			{
+				"name": "cycling",
+				"id": "c103af2b-9906-4069-adcd-db046bdcc2d8"
+			},
+			{
+				"name": "hiking",
+				"id": "36d44deb-3655-4c2a-8fb9-caf692be2578"
+			},
+			{
+				"name": "kayaking",
+				"id": "0b8baa93-3498-43cb-9c47-d005f57ef1eb"
+			}
+		]
+	},
+	"languages": {
+		"heading": "Languages",
+		"visible": true,
+		"items": [
+			{
+				"name": "Chinese",
+				"fluency": "Native",
+				"id": "035686bb-5dc0-42a2-8cdb-919d2703474e"
+			},
+			{
+				"name": "English",
+				"fluency": "Middle",
+				"id": "deedb0f4-312a-4b25-85fe-cf0145d53e3d"
+			},
+			{
+				"name": "Japanese",
+				"fluency": "Entry Level",
+				"id": "db3e9fe0-bcb0-4c09-9db9-2742e3ecc2e7"
+			},
+			{
+				"name": "Ukrainian",
+				"fluency": "Entry Level",
+				"id": "feae0e84-7ee3-4df7-9262-be3c2c37797e"
+			}
+		]
+	},
+	"metadata": {
+		"colors": {
+			"background": "#FFFFFF",
+			"primary": "#009688",
+			"text": "#212121"
+		},
+		"font": "Nunito",
+		"fontSize": 9,
+		"language": "en",
+		"layout": {
+			"castform": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"celebi": [
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"references"
+				]
+			],
+			"gengar": [
+				[
+					"objective",
+					"skills"
+				],
+				[
+					"awards",
+					"certifications",
+					"languages",
+					"references",
+					"hobbies"
+				],
+				[
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"glalie": [
+				[
+					"awards",
+					"certifications",
+					"hobbies"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"skills",
+					"projects",
+					"languages",
+					"references"
+				]
+			],
+			"onyx": [
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				],
+				[
+					"hobbies",
+					"languages",
+					"awards",
+					"certifications"
+				],
+				[
+					"skills",
+					"references"
+				]
+			],
+			"orientalent": [
+				[
+					"skills",
+					"languages",
+					"certifications",
+					"references",
+					"hobbies",
+					"awards"
+				],
+				[
+					"objective",
+					"work",
+					"education",
+					"projects"
+				]
+			],
+			"pikachu": [
+				[
+					"skills",
+					"languages",
+					"hobbies",
+					"awards",
+					"certifications"
+				],
+				[
+					"work",
+					"education",
+					"projects",
+					"references"
+				]
+			]
+		},
+		"template": "orientalent"
+	},
+	"objective": {
+		"body": "",
+		"heading": "Summary",
+		"visible": true
+	},
+	"preview": "",
+	"profile": {
+		"address": {
+			"city": "Kyiv",
+			"line1": "Boychuk Mykhaila Street, building 1-A, apartment 7",
+			"line2": "",
+			"pincode": "01103"
+		},
+		"birthDate": "1972-09-16",
+		"email": "jianglibo@gmail.com",
+		"firstName": "Libo",
+		"heading": "Profile",
+		"lastName": "Jiang",
+		"photograph": "https://avatars.githubusercontent.com/u/27719?v=4",
+		"subtitle": "",
+		"website": "https://jianglibo.github.io/",
+		"phone": "+380684110338"
+	},
+	"projects": {
+		"heading": "Projects",
+		"visible": true,
+		"items": [
+			{
+				"title": "back files over ssh",
+				"link": "https://github.com/jianglibo/bk-over-ssh",
+				"startDate": "2019-08-23",
+				"endDate": "2020-06-23",
+				"summary": "To backup files between computes by ssh. Written by Rust language.",
+				"id": "10da1e61-eaef-458c-9f8f-e2804ad3ed65"
+			},
+			{
+				"title": "elm-mini-util",
+				"link": "https://github.com/jianglibo/elm-mini-util",
+				"startDate": "2021-10-18",
+				"endDate": "2022-08-08",
+				"summary": "Use Elm language to implement some web-based small utils. \nhttps://jianglibo.github.io",
+				"id": "0f084c9d-ae29-4f7c-aa80-ac180f20179d"
+			},
+			{
+				"title": "easyinstaller",
+				"link": "https://github.com/jianglibo/easyinstaller",
+				"startDate": "2016-10-18",
+				"endDate": "2017-05-27",
+				"summary": "Use the command line to install common software like Hadoop. Witten by Java.",
+				"id": "cdfc282b-cd6e-49e4-a08c-29a0f41ad856"
+			},
+			{
+				"title": "ascii-tree",
+				"link": "https://github.com/jianglibo/ascii-tree",
+				"startDate": "2016-02-23",
+				"endDate": "2016-02-28",
+				"summary": "convert indented line block to an ascii directory tree",
+				"id": "77ba8b23-84e1-4c4a-acdf-201ae28f163c"
+			}
+		]
+	},
+	"public": true,
+	"references": {
+		"heading": "References",
+		"visible": true
+	},
+	"skills": {
+		"heading": "Skills",
+		"visible": true,
+		"items": [
+			{
+				"name": "Java",
+				"level": "Advanced",
+				"id": "b37e5305-6cab-4bcb-9640-a51b89fe417b"
+			},
+			{
+				"name": "ReactJS",
+				"level": "Advanced",
+				"id": "8eefd33c-3e9f-4f83-81f6-6155b4259090"
+			},
+			{
+				"name": "Perl",
+				"level": "Intermediate",
+				"id": "6feecace-f461-4232-8d0f-99506543c119"
+			},
+			{
+				"name": "Hashkell",
+				"level": "intermediate",
+				"id": "5826fe51-b03a-4bfa-b7e5-0408d407425d"
+			}
+		]
+	},
+	"social": {
+		"heading": "Social Network",
+		"visible": true,
+		"items": [
+			{
+				"url": "https://twitter.com/jianglibo",
+				"network": "Twitter",
+				"username": "jianglibo",
+				"id": "ca1bf78c-33f1-4ef5-a258-ada24b1ff7f0"
+			}
+		]
+	},
+	"work": {
+		"heading": "Work Experience",
+		"visible": true,
+		"items": [
+			{
+				"company": "Water Conservancy Bureau of Fenghua District, Ningbo City",
+				"position": "Small hydropower electrical equipment design engineer",
+				"website": "",
+				"startDate": "1994-08-01",
+				"endDate": "2003-08-01",
+				"summary": "Engaged in the design, installation, commissioning and operation of electrical equipment for small hydropower stations",
+				"id": "4f0eb5d8-509a-4504-99ba-5eae2be22353"
+			},
+			{
+				"company": "Ningbo Fenghua District Big Data Development Service Center",
+				"position": "database engineer",
+				"website": "",
+				"startDate": "2003-08-01",
+				"endDate": "2021-06-01",
+				"summary": "Responsible for the selection, maintenance, and expansion of software systems for government informatization.",
+				"id": "d011e318-1062-4947-9050-83c6da6532c8"
+			},
+			{
+				"company": "Hangzhou Huishu Zhitong Technology Co., Ltd.",
+				"position": "Java Developer",
+				"website": "https://www.datafocus.ai/",
+				"startDate": "2021-08-01",
+				"endDate": "2022-03-01",
+				"summary": "Leader developer of the plugin system for the company's SAAS system.",
+				"id": "5c101a76-7019-4e74-90cc-99ba98370def"
+			}
+		]
+	}
+}

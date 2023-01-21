@@ -15,5 +15,6 @@
 		"org.mockito.ArgumentMatchers.*",
 		"org.mockito.Answers.*"
 	],
-	"java.configuration.updateBuildConfiguration": "interactive"
+	"java.configuration.updateBuildConfiguration": "interactive",
+	"java.compile.nullAnalysis.mode": "automatic"
 }
